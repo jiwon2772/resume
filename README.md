@@ -3,7 +3,7 @@
 ## JIWON JEONG
 
 Address: 65-19, Nohae-ro 62gil, Dobong-gu, Seoul 01483 Republic of Korea
-E-mail: jiwon2772@naver.com / phone: 8210-6623-2772
+\n E-mail: jiwon2772@naver.com / phone: 8210-6623-2772
 ## EDUCATION
 Gachon University  2012.03 ~
 * Dept. of Software
