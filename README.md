@@ -3,20 +3,23 @@
 ## JIWON JEONG
 
 Address: 65-19, Nohae-ro 62gil, Dobong-gu, Seoul 01483 Republic of Korea
-\n E-mail: jiwon2772@naver.com / phone: 8210-6623-2772
+
+E-mail: jiwon2772@naver.com / phone: 8210-6623-2772
 ## EDUCATION
-Gachon University  2012.03 ~
+Gachon University                            *2012.03 ~*
 * Dept. of Software
-* GPA : 4.18 / 4.5 ( Major GPA : 4.25 / 4.5 )
+* GPA : 4.18 / 4.5 ( **Major GPA : 4.25 / 4.5** )
 ## AREAS OF INTEREST
 Deep Learning, Wireless Network, Data Mining, Self-driving Car
 ## SCHOLARSHIP RECEIVED
 National Science and Engineering Excellence Scholarship
-2016.03 ~
+*2016.03 ~*
+
 Undergraduate Research Assistant Scholarship
-2016.03 ~
+*2016.03 ~*
+
 Merit-based Scholarship in Gachon University
-2013.03 ~ 2016.03
+*2013.03 ~ 2016.03*
 ## GRADUATION PROJECT
 Door Watcher (Sensor-based home security system with Mobile Application)
 * Open Hardware + Mobile Application + Web Application
