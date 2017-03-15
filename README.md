@@ -28,25 +28,29 @@ Door Watcher (Sensor-based home security system with Mobile Application)
 * Raspberry Pi for server and Communication with Android
 * Programming Language: Java, Python, jQuery, JavaScript, PHP, CSS, HTML, MYSQL
 ## PROGRAMMING SKILLS
-##### Programming Language
+#### Programming Language
 JAVA, C, C++, Python, Web Programming (JSP, JavaScript, PHP, AJAX, jQuery)
-##### Software Tools/Platforms used
+#### Software Tools/Platforms used
 Android Studio, OpenGL, OpenCV, Raspberry Pi, Arduino, TestLink, Junit, Tesnsorflow, Jmeter, SonarQube, Doxygen
 ## EXTRA TRAINING
-##### Research Assistant
+#### Research Assistant
 *Gachon University (Wireless Network Lab)*  2016.03 ~
 * Prediction-based Adaptive Video Streaming with MPTCP(Multi-path TCP) for Vehicles
 * How to use MPTCP(multi-path TCP) for V2V(Vehicle to Vehicle) or V2I(Vehicle to Infrastructure)
 * New data transmission method on self-driving car for enhancing ability to handle unsuspected situation.
 ## COURSES TAKEN **GPA 4.18/4.5 (MAJOR GPA 4.25/4.5)**
-##### 1st Year
------------- | -------------
-* Discrete Mathematics | * Computer Architecture
-* Computer Programming | * Understanding of East Asian History
-* Understanding of Music | * Programming Problem Solving
-* Web Programming | * Global Leadership
-* Probability and Statistics | * Writing skill for Engineer
-##### 2nd Year
+### 1st Year
+* Discrete Mathematics
+* Computer Architecture
+* Computer Programming
+* Understanding of East Asian History
+* Understanding of Music
+* Programming Problem Solving
+* Web Programming
+* Global Leadership
+* Probability and Statistics
+* Writing skill for Engineer
+### 2nd Year
 * Object-Oriented Programming
 * Operating System
 * Data Structure
@@ -57,7 +61,7 @@ Android Studio, OpenGL, OpenCV, Raspberry Pi, Arduino, TestLink, Junit, Tesnsorf
 * Computer Network & Programming
 * Chinese 2
 * Introduction to Psychology
-##### 3rd Year
+### 3rd Year
 * Mobile Programming
 * Software Engineering
 * Computer Graphics
