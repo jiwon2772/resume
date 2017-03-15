@@ -1,5 +1,3 @@
-# resume
-
 ## JIWON JEONG
 
 Address: 65-19, Nohae-ro 62gil, Dobong-gu, Seoul 01483 Republic of Korea
